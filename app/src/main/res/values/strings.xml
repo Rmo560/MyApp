@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">تطبيقي</string>
+    <string name="welcome">مرحباً بك في تطبيقي!</string>
+    <string name="go_second">اذهب للشاشة الثانية</string>
+    <string name="go_settings">الإعدادات</string>
+    <string name="change_color">تغيير اللون</string>
+    <string name="counter">العداد: 0</string>
+    <string name="back">رجوع</string>
+</resources>
